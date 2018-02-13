@@ -1,0 +1,33 @@
+td,th {
+  border: 1px solid black;
+}
+
+th{
+  border-radius: 5px;
+  background-color: lightblue;
+}
+
+table{
+  /* border-collapse: collapse; */
+  border-spacing: 5px;
+}
+
+.magistral{
+  background-color: yellow;
+}
+
+.conf{
+  background-color: red;
+}
+
+.general{
+  background-color: #9798CA;
+}
+
+.taller{
+  background-color: #9699FE;
+}
+
+.tutorial{
+  background-color: #91CDFF;
+}
