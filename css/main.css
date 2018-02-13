@@ -1,5 +1,6 @@
 td,th {
   border: 1px solid black;
+  text-align: center;
 }
 
 th{
@@ -30,4 +31,22 @@ table{
 
 .tutorial{
   background-color: #91CDFF;
+}
+
+td span{
+  display: block;
+}
+
+.ponente{
+  font-style: italic;
+}
+
+.tip-even{
+    font-size: .8em;
+    font-size: italic;
+}
+
+table caption{
+  font-weight: border;
+  font-size: 2em;
 }
