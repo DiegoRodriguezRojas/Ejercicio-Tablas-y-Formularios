@@ -5,32 +5,11 @@ td,th {
 
 th{
   border-radius: 5px;
-  background-color: lightblue;
+  background-color: #B7C2CF;
 }
 
 table{
-  /* border-collapse: collapse; */
   border-spacing: 5px;
-}
-
-.magistral{
-  background-color: yellow;
-}
-
-.conf{
-  background-color: red;
-}
-
-.general{
-  background-color: #9798CA;
-}
-
-.taller{
-  background-color: #9699FE;
-}
-
-.tutorial{
-  background-color: #91CDFF;
 }
 
 td span{
@@ -49,4 +28,33 @@ td span{
 table caption{
   font-weight: border;
   font-size: 2em;
+}
+
+h2{
+  font-size: 1em;
+  margin: 0;
+}
+
+.magistral{
+  background-color: #BEBEBE;
+}
+
+.conf{
+  background-color: #E8E5FF;
+}
+
+.general{
+  background-color: #9C99D2;
+}
+
+.taller{
+  background-color: #9A99FF;
+}
+
+.tutorial{
+  background-color: #9BCCFE;
+}
+
+.evaluacion{
+  background-color: #D0CDFF;
 }
